@@ -18,7 +18,8 @@ public class Password {
             System.out.println("god kode");
         } else if (length < 4) {
             System.out.println ("koden er for kort");
-        }
+        } System.out.prinln("hej drenge!");
+         
 
 
 
