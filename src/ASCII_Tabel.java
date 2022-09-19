@@ -28,7 +28,7 @@ public class ASCII_Tabel {
                     System.out.println("ja, det er meget dejligt");
                 }
                 System.out.println("stop med at drikke så meget cacomilk");
-                System.out.println("Kage");
+                System.out.println("Kage")
 
             }
         }
