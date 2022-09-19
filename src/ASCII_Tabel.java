@@ -25,6 +25,7 @@ public class ASCII_Tabel {
                 else{
                     System.out.println("Tegnet er ikke kendt af dette program");
                     System.out.println("Jeg elsker cacomilk");
+                    System.out.println("ja, det er meget dejligt");
                 }
             }
         }
