@@ -33,6 +33,7 @@ public class ASCII_Tabel {
                 System.out.println("det smager rigtig flot");
                 System.out.println("ja, i dag er en dejlig dag");
                 // HEEJ
+                // hej igen igen igen
 
 
             }
