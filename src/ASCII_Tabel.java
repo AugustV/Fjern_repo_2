@@ -32,6 +32,7 @@ public class ASCII_Tabel {
                 System.out.println("Kage");
                 System.out.println("det smager rigtig flot");
                 sout den her commando er invalid
+                        nu gør jeg mere lort
 
 
 
