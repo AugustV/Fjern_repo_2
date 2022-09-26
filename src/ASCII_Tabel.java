@@ -34,7 +34,7 @@ public class ASCII_Tabel {
 
 
                 System.out.println("det smager rigtig flot");
-                System.out.println("Bare rolig drenge jeg har rettet det igen :)");
+                System.out.println("Buggen er fixed");
 
 
 
