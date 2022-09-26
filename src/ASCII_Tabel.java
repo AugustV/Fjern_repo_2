@@ -44,7 +44,9 @@ public class ASCII_Tabel {
                 // hej igen igen igen
 
 
+
             }
         }
+        System.out.println("i alle sammen smager rigtig flot");
     }
 }
