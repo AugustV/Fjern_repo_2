@@ -40,7 +40,9 @@ public class ASCII_Tabel {
 
 
 
+
             }
         }
+        System.out.println("i alle sammen smager rigtig flot");
     }
 }
