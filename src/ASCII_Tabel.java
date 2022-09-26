@@ -43,6 +43,8 @@ public class ASCII_Tabel {
                 // HEEJ
                 // hej igen igen igen
 
+                // hej med dig super kaj
+
 
 
             }
