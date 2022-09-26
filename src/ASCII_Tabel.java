@@ -30,7 +30,9 @@ public class ASCII_Tabel {
                 }
                 System.out.println("stop med at drikke så meget cacomilk");
                 System.out.println("Kage");
-                System.out.println("det smager rigtig flot")
+                System.out.println("det smager rigtig flot");
+                sout den her commando er invalid
+
 
 
             }
